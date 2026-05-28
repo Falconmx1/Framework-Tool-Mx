@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+tkinter
+flask
+colorama
+phonenumbers
+python-whois
+dnsrecon
+holehe
+sherlock
