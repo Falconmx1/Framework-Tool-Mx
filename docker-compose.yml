@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  framework-tools-mx:
+    build: .
+    container_name: osint_framework_mx
+    stdin_open: true
+    tty: true
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./reports:/app/reports
