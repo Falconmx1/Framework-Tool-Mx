@@ -1,3 +1,8 @@
-requests
-flask
-tkinter
+requests>=2.31.0
+flask>=2.3.0
+holehe>=2.1.0
+sherlock-project>=0.14.3
+theHarvester>=4.5.0
+beautifulsoup4>=4.12.0
+colorama>=0.4.6
+tkinter  # built-in con Python
